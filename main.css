@@ -1,0 +1,82 @@
+body{
+color: #494e52;
+font-family: 'Arial';
+font-size: 15px;
+}
+
+#Avatar {
+  border-radius: 50%;
+  width: 150px;
+  height:150px;
+}
+
+#left{
+text-align:left;
+max-width: 150px;
+list-style-type: none;
+padding-left:0px;
+}
+
+#left a{
+text-decoration: none;
+color: #494e52
+}
+
+#left li{
+padding: 5px;
+vertical-align: middle;
+font-size: 13px;
+}
+
+#paper{
+    list-style-type: none;
+    padding-left: 15px;
+}
+#paper li{
+   margin: 5px;
+}
+
+#paper a{
+    text-decoration: none;
+    color: #5555bb;
+}
+
+#paper_title{
+    font-weight: bold;
+    list-style-type: disc;
+}
+
+#head {
+  width: 100%;
+  height: 60px;
+  bottom: 0px;
+  border-bottom: 1px solid #dddddd;
+  background-color: #ffffff;
+  text-align:center;
+  vertical-align: text-bottom;
+}
+
+#head div{
+    padding-top: 20px;
+    border: 0px solid #000000;
+}
+
+#head .c1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New';
+}
+
+#head .c2{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New';
+}
+
+#foot {
+  width: 100%;
+  height: 20px;
+  bottom: 0px;
+  border-top: 1px solid #000000;
+  background-color: green;
+}
